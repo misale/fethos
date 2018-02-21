@@ -1,0 +1,2 @@
+# fethos
+crypto mining OS
